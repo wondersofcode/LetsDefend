@@ -1,0 +1,7 @@
+# Phishing Cases
+
+Investigations related to phishing alerts from LetsDefend's SOC Simulator.
+
+| # | Title | Verdict | Link |
+|---|---|---|---|
+| 001 | Example Case (replace me) | — | [View](./001-example-case/README.md) |
