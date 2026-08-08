@@ -30,7 +30,7 @@ focusing on log analysis, alert triage, and incident investigation. This repo tr
 practical progress alongside my coursework.
 - 🎯 Goal: SOC Analyst
 - 🌍 Based in: Sumgait, Azerbaijan.
-- 🔗 LetsDefend profile: https://app.letsdefend.io/user/wanhecho
+- 🔗 LetsDefend profile: [Click](https://app.letsdefend.io/user/wanhecho)
 
 ---
 
