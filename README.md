@@ -151,9 +151,9 @@ Study notes I keep updated as I learn — see [`notes/`](./notes/):
 
 ## 📫 Contact
 
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
-- LetsDefend Profile: [link]
+- LinkedIn: [Click](https://www.linkedin.com/in/tunar-eyyublu/)
+- Email: tunareyyublu0@gmail.com
+- LetsDefend Profile: [Click](https://app.letsdefend.io/user/wanhecho)
 
 ---
 ⭐ *If you're a recruiter reviewing this — thanks for stopping by! Every write-up here reflects my own investigation process and reasoning.*
