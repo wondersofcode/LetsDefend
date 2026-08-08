@@ -24,7 +24,7 @@ I'm an aspiring **SOC Analyst / Blue Team practitioner** building hands-on incid
 
 ## 👤 About Me
 
-Currently a [Computer Science / Cybersecurity] student building hands-on SOC experience 
+Currently a Information Security student building hands-on SOC experience 
 through LetsDefend's simulated environment. I'm working toward a Junior SOC Analyst role, 
 focusing on log analysis, alert triage, and incident investigation. This repo tracks my 
 practical progress alongside my coursework.
