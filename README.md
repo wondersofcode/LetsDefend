@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Portfolio — [Your Name]
+# 🛡️ SOC Analyst Portfolio — WONDERSOFCODE
 
 ![LetsDefend](https://img.shields.io/badge/LetsDefend-Practitioner-blue)
 ![Status](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)
