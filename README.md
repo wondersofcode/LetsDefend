@@ -24,11 +24,13 @@ I'm an aspiring **SOC Analyst / Blue Team practitioner** building hands-on incid
 
 ## 👤 About Me
 
-[2-3 sentences: who you are, what you're aiming for — e.g. "Currently studying cybersecurity and building practical SOC experience. Interested in incident response, threat detection, and eventually threat hunting."]
-
-- 🎯 Goal: [e.g. "Junior SOC Analyst role"]
-- 🌍 Based in: [City, Country]
-- 🔗 LetsDefend profile: [link to your public profile if available]
+Currently a [Computer Science / Cybersecurity] student building hands-on SOC experience 
+through LetsDefend's simulated environment. I'm working toward a Junior SOC Analyst role, 
+focusing on log analysis, alert triage, and incident investigation. This repo tracks my 
+practical progress alongside my coursework.
+- 🎯 Goal: SOC Analyst
+- 🌍 Based in: Sumgait, Azerbaijan.
+- 🔗 LetsDefend profile: https://app.letsdefend.io/user/wanhecho
 
 ---
 
